@@ -1,0 +1,12 @@
+.cell {
+  width: 100px;
+  height: 100px;
+  border: gray 1px solid;
+  background-color: white;
+}
+.on {
+  background-color: black;
+}
+.off {
+  background-color: white;
+}
